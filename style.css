@@ -3,3 +3,11 @@
   color: white;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+h1,
+h2,
+h4 {
+  color: white;
+  background: black;
+  text-decoration: underline;
+}
