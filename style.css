@@ -3,3 +3,10 @@
   color: white;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+h1,
+h2,
+h3 {
+  color: brown;
+  background: peachpuff;
+}
